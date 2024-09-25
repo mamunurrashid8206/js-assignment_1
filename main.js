@@ -39,10 +39,10 @@
 // // console.log("Rohims have total orange " + totalHave + ".");
 
 
-let distance = 150;
-let time = 3;
-let speed = distance/time;
-console.log('The train covers ' + speed + ' km per hour. ');
+// let distance = 150;
+// let time = 3;
+// let speed = distance/time;
+// console.log('The train covers ' + speed + ' km per hour. ');
 
 
 
@@ -56,3 +56,5 @@ console.log('The train covers ' + speed + ' km per hour. ');
 // let remainingProducts = totalProduction - unsoldMachines;
 // console.log ('The total production with 2 more machines is ' + totalProduction + ' products.')
 // console.log("The remaining products after 3 unsold items is " + remainingProducts + " products.");
+
+console.log("amiii");
